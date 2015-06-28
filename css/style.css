@@ -96,9 +96,10 @@
 
 	strong, b
 	{
-		font-weight: 300;
+		font-weight: bold;
 		color: #666;
 	}
+		
 	
 	em, i
 	{
@@ -442,7 +443,11 @@
 				table.default tbody
 				{
 				}
-
+/*RESUME*/
+iframe{ 
+	width: 100%;
+	height: 650px;
+}
 	/* Button */
 		
 		input[type="button"],
@@ -602,6 +607,7 @@
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
+			padding-right: 20px;
 		}
 	
 		#logo p
@@ -613,6 +619,7 @@
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
 			float: right;
+			padding-right: 20px;
 		}
 		
 		#logo .image
@@ -786,13 +793,13 @@
 			#main > section.three
 			{
 				background-color: #ecf1f1;
-				height: 700px;
+				height: 900px;
 			}
 		
 			#main > section.four
 			{
 				background-color: #FFFFFF;
-				height: 700px;
+				height: 500px;
 			}
 /*********************************************************************************/
 .clear{
