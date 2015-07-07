@@ -30,12 +30,12 @@
 
 			ul.icons
 			{
-			}	
-			
+			}
+
 				ul.icons li
 				{
 				}
-				
+
 					ul.icons a
 					{
 						width: 1.75em;
@@ -59,16 +59,21 @@
 		{
 			padding: 4em 0em;
 		}
-		
+
 			#main section.cover header
 			{
 				padding: 0 1em;
 			}
-			
+	.about_me{
+			text-align: center;
+			padding-left: 0px;
+			padding-top: 100px;
+
+	}
 /*********************************************************************************/
 /* Footer                                                                        */
 /*********************************************************************************/
-	
+
 	#footer
 	{
 	}
@@ -76,7 +81,7 @@
 		#footer .copyright
 		{
 		}
-			
+
 			#footer .copyright li
 			{
 				display: block;
@@ -85,7 +90,7 @@
 				padding: 0;
 				margin: 1em 0 0 0;
 			}
-			
+
 			#footer .copyright li:first-child
 			{
 				margin-top: 0;
